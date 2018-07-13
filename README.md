@@ -16,3 +16,12 @@ B. Qualitative :
 - 1. Nominal : No order  Ex. Gender, Region
 - 2. Ordinal : Ex. Size of Shirt, Rating,
 ---------------
+Depending on type of dependent variable you have you will choose Linear Or Logistic Regression Model.
+
+y = mx + b
+
+- If dependent variable y is numerical then use Linear Regression.
+- If dependent variable y is categorical or Qualitative then use Logistic Regression.
+---------------
+
+
