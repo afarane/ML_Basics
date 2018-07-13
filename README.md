@@ -40,6 +40,7 @@ Multiple linear regression :
 [Parsimony Principle ]
 
 y = B0 + B1X1 + B2X2 + .... + e
+
 e is difference between actual and predicted value.
 
 
