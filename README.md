@@ -4,6 +4,7 @@
 Variables are classified as
 
 A. Quantitavtive 
+
 B. Qualitative 
 
 ---------------
