@@ -22,6 +22,17 @@ y = mx + b
 
 - If dependent variable y is numerical then use Linear Regression.
 - If dependent variable y is categorical or Qualitative then use Logistic Regression.
+
+y - dependent variable/ Target / label
+x - independent variable / Features / Covariates
+
+Supervised & Unsupervised Learning :
+- When we have x & y values and we try to link them then that is called Supervised 
+
 ---------------
+Simple linear regression:
+- There is on one x and one y
 
-
+Multiple linear regression :
+- There are x1,x2,x3... and one y 
+---------------
