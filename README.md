@@ -39,7 +39,7 @@ Multiple linear regression :
 
 [Parsimony Principle ]
 
-- Don't add unnessory variables if not needed or e is same.
+- Don't add unnecessary variables if not needed or e is same.
 
 y = B0 + B1X1 + B2X2 + .... + e
 
@@ -52,5 +52,7 @@ Model Evaluation Errors :
 - RMSE
 
 [info http://scikit-learn.org/stable/modules/model_evaluation.html]
+
+https://datafai.com/2017/10/31/python-machine-learning-linear-regression-with-scikit-learn/
 
 
