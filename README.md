@@ -55,4 +55,13 @@ Model Evaluation Errors :
 
 https://datafai.com/2017/10/31/python-machine-learning-linear-regression-with-scikit-learn/
 
+---------------
 
+1. Mostly in scikit learn Make everything numerical 
+2. x - features | y - labels
+3. Standardize data
+4. Split data into train and test 
+5. Instantiation of Model
+- Create instance of Model
+- Fit (train data)
+- transform/predict (test data)
