@@ -39,6 +39,8 @@ Multiple linear regression :
 
 [Parsimony Principle ]
 
+- Don't add unnessory variables if not needed or e is same.
+
 y = B0 + B1X1 + B2X2 + .... + e
 
 e is difference between actual and predicted value.
