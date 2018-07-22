@@ -43,6 +43,12 @@ y = B0 + B1X1 + B2X2 + .... + e
 
 e is difference between actual and predicted value.
 
+---------------
+Model Evaluation Errors :
+- MAE
+- MSE
+- RMSE
 
+[info http://scikit-learn.org/stable/modules/model_evaluation.html]
 
 
