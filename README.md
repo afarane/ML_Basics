@@ -56,6 +56,9 @@ Model Evaluation Errors :
 https://datafai.com/2017/10/31/python-machine-learning-linear-regression-with-scikit-learn/
 
 R^2 =  Coefficient of determination 
+adjusted R^2 = Compensation of #of variables
+
+adjusted R^2 <= R^2
 
 ---------------
 
