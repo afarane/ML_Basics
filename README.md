@@ -55,6 +55,8 @@ Model Evaluation Errors :
 
 https://datafai.com/2017/10/31/python-machine-learning-linear-regression-with-scikit-learn/
 
+R^2 =  Coefficient of determination 
+
 ---------------
 
 1. Mostly in scikit learn Make everything numerical 
@@ -65,3 +67,5 @@ https://datafai.com/2017/10/31/python-machine-learning-linear-regression-with-sc
 - Create instance of Model
 - Fit (train data)
 - transform/predict (test data)
+---------------
+
