@@ -79,6 +79,11 @@ ML Models:
 3. Decision Tree & Random Forest (For Classification & Regression) Supervised
 4. PCA -- Unsupervised
 5. K-Means (For Classification & Regression) Unsupervised
+- Ref: https://www.datascience.com/blog/k-means-clustering
+Hirarchical Clustering :
+- Agglomerative (Bottom-up clustering Method)
+- Divisive (Top-down clustering Method )
+
 6. KNN -- (For Classification & Regression)
 7. Naive Bayes
 8. SVM
