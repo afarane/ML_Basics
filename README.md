@@ -74,12 +74,12 @@ adjusted R^2 <= R^2
 
 ML Models:
 
-1. Linear Regression
-2. Logistic Regression
-3. Decision Tree & Random Forest
-4. PCA
-5. KNN
-6. Naive Bayes
-7. K-Means
+1. Linear Regression -- Supervised
+2. Logistic Regression (For Classification ) Supervised
+3. Decision Tree & Random Forest (For Classification & Regression) Supervised
+4. PCA -- Unsupervised
+5. K-Means (For Classification & Regression) Unsupervised
+6. KNN -- (For Classification & Regression)
+7. Naive Bayes
 8. SVM
 
