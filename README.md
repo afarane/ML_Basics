@@ -72,3 +72,14 @@ adjusted R^2 <= R^2
 - transform/predict (test data)
 ---------------
 
+ML Models:
+
+1. Linear Regression
+2. Logistic Regression
+3. Decision Tree & Random Forest
+4. PCA
+5. KNN
+6. Naive Bayes
+7. K-Means
+8. SVM
+
