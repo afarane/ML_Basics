@@ -72,3 +72,4 @@ adjusted R^2 <= R^2
 - transform/predict (test data)
 ---------------
 
+>>> Part_02 : https://github.com/afarane/ML_Basics/blob/master/ML_Part_02.md
