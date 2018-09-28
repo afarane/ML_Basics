@@ -28,3 +28,8 @@ Hirarchical Clustering :
 8. SVM
 
 [ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
+
+
+---------------
+
+<<< https://github.com/afarane/ML_Basics/blob/master/ML_Part_01.md
