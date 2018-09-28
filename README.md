@@ -81,7 +81,8 @@ Cost Function : Goal is to minimize cost function
 
 Gradient Descent : Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost). [Source: https://machinelearningmastery.com/gradient-descent-for-machine-learning/]
 
-![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/03/06100746/grad.png)
+![grad](https://user-images.githubusercontent.com/27011804/46206483-c62e1700-c341-11e8-8c64-e36e1c196ef6.png)
+
 
 ---------------
 ML Models:
