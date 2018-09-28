@@ -71,7 +71,12 @@ adjusted R^2 <= R^2
 - Fit (train data)
 - transform/predict (test data)
 ---------------
+ML Terms :
+Cost Function : Goal is to minimize cost function
 
+Gradient Descent
+
+---------------
 ML Models:
 
 1. Linear Regression -- Supervised
