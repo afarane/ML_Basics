@@ -72,7 +72,10 @@ adjusted R^2 <= R^2
 - transform/predict (test data)
 ---------------
 ML Terms :
+
 Cost Function : Goal is to minimize cost function
+![cost](https://user-images.githubusercontent.com/27011804/46183422-796d2080-c2ee-11e8-83d8-401faa2b02db.PNG)
+[Source : Andrew NG]
 
 Gradient Descent
 
