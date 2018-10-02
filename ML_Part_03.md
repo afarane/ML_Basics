@@ -1,16 +1,16 @@
 ML Models:
 
-1. Linear Regression -- Supervised
+1. Linear Regression -- (Supervised)
 
-2. Logistic Regression (For Classification ) Supervised
+2. Logistic Regression (For Classification ) (Supervised)
 
-3. Decision Tree & Random Forest (For Classification & Regression) Supervised
+3. Decision Tree & Random Forest (For Classification & Regression) (Supervised)
 
-4. PCA -- Unsupervised
+4. PCA -- (Unsupervised)
 
 5. KNN -- (For Classification & Regression)
 
-6. K-Means (For Classification & Regression) Unsupervised Discriminative model
+6. K-Means (For Classification & Regression)  Discriminative model (Unsupervised)
 - Distributon is based on Distance 
 [ Ref: https://www.datascience.com/blog/k-means-clustering ]
 
@@ -18,7 +18,8 @@ Hirarchical Clustering :
 - Agglomerative (Bottom-up clustering Method)
 - Divisive (Top-down clustering Method )
 
-7. Naive Bayes (For Classification) - Probability Distribution Generative model
+7. Naive Bayes (For Classification) - Probability Distribution Generative model . Good fit for Text based analysis (Supervised)
+
 Applications:
 - Face Recognition
 - Email Spam Filter
