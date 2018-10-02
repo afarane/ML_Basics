@@ -19,3 +19,5 @@ Gradient Descent : Gradient descent is an optimization algorithm used to find th
 
 
 <<< https://github.com/afarane/ML_Basics/blob/master/ML_Part_01.md
+
+https://github.com/afarane/ML_Basics/blob/master/ML_Part_03.md >>>
