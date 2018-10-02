@@ -20,6 +20,13 @@ Hirarchical Clustering :
 
 7. Naive Bayes (For Classification) - Probability Distribution Generative model . Good fit for Text based analysis (Supervised)
 
+Heighlights:
+- Needs less data (Sparse data)
+- Scalable
+- Fast
+- Handles Continuous and Discrete data
+
+
 Applications:
 - Face Recognition
 - Email Spam Filter
