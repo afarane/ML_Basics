@@ -1,14 +1,14 @@
-ML Models:
+## ML Models:
 
-1. Linear Regression -- (Supervised)
+**1. Linear Regression -- (Supervised)
 
-2. Logistic Regression (For Classification ) (Supervised)
+**2. Logistic Regression (For Classification ) (Supervised)
 
-3. Decision Tree & Random Forest (For Classification & Regression) (Supervised)
+**3. Decision Tree & Random Forest (For Classification & Regression) (Supervised)
 
-4. PCA -- (Unsupervised)
+**4. PCA -- (Unsupervised)
 
-5. KNN -- (For Classification & Regression)
+**5. KNN -- (For Classification & Regression)
 
 6. K-Means (For Classification & Regression)  Discriminative model (Unsupervised)
 - Distributon is based on Distance 
@@ -18,7 +18,9 @@ Hirarchical Clustering :
 - Agglomerative (Bottom-up clustering Method)
 - Divisive (Top-down clustering Method )
 
-7. Naive Bayes (For Classification) - Probability Distribution Generative model . Good fit for Text based analysis (Supervised)
+**7. Naive Bayes (For Classification) - (Supervised)
+
+Probability Distribution Generative model . Good fit for Text based analysis 
 
 Heighlights:
 - Needs less data (Sparse data)
@@ -32,7 +34,7 @@ Applications:
 - Email Spam Filter
 - Categorize News
 
-8. SVM (Supervised)
+**8. SVM (Supervised)
 
 SVMs can be used to do two things: classification or regression.
 - Support Vector Classifier (SVC)
