@@ -1,8 +1,8 @@
 # ML_Basics
 
-01. https://github.com/afarane/ML_Basics/blob/master/ML_Part_01.md
-02. https://github.com/afarane/ML_Basics/blob/master/ML_Part_02.md
-03. https://github.com/afarane/ML_Basics/blob/master/ML_Part_03.md
+01. ML Introduction - [https://github.com/afarane/ML_Basics/blob/master/ML_Part_01.md]
+02. ML Terms - [https://github.com/afarane/ML_Basics/blob/master/ML_Part_02.md]
+03. ML Models & Algorithams - [https://github.com/afarane/ML_Basics/blob/master/ML_Part_03.md]
 
 
 Education:
