@@ -35,8 +35,21 @@ Applications:
 8. SVM (Supervised)
 
 SVMs can be used to do two things: classification or regression.
-- SVM is used for classification
-- SVR (Support Vector Regression) is used for regression
+- Support Vector Classifier (SVC)
+- Support Vector Regressor (SVR) is used for regression
+
+When to use? :
+- To avoid curse of dimensionality. 
+- When you have many outliers 
+- Robust
+
+Where to use? :
+- Sparse data
+- High Dimensional data
+- Text Classification
+- Data is nonlinear
+- Image classification
+- Data has complex patterns
 
 [ Ref - https://www.svm-tutorial.com/ ]
 
