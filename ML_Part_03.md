@@ -1,8 +1,8 @@
 ## ML Models:
 
-**1. Linear Regression -- (Supervised)
+** 1. Linear Regression -- (Supervised) **
 
-**2. Logistic Regression (For Classification ) (Supervised)
+2. Logistic Regression (For Classification ) (Supervised)
 
 **3. Decision Tree & Random Forest (For Classification & Regression) (Supervised)
 
