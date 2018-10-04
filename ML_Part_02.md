@@ -21,7 +21,7 @@ Gradient descent is an optimization algorithm used to find the values of paramet
 
 3. Precision and Recall :
 
-![ml_p r](https://user-images.githubusercontent.com/27011804/46461277-f101ea80-c7db-11e8-919a-358f6164e880.png)
+![ml_p r](https://user-images.githubusercontent.com/27011804/46474714-31279400-c801-11e8-93ee-a7a0becee9fb.png)
 
 ---------------
 
