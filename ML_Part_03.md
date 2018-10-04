@@ -53,6 +53,12 @@ Where to use? :
 
 [ Ref - https://www.svm-tutorial.com/ ]
 
+Terms:
+- Types of Kernel trick
+- C
+[ SVM Parameters : http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html ]
+- gamma
+
 ---------------
 
 [ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
