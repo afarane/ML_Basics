@@ -37,6 +37,13 @@ Gradient descent is an optimization algorithm used to find the values of paramet
 
 [ Source : Wiki]
 
+### 7. Bias-Variance Tradeoff :
+
+![image](https://user-images.githubusercontent.com/27011804/46476220-38e93780-c805-11e8-9539-dedde813b2d7.png)
+
+[Source https://www.kdnuggets.com/2016/08/bias-variance-tradeoff-overview.html]
+
+
 ---------------
 
 
