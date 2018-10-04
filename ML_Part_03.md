@@ -38,8 +38,11 @@ SVMs can be used to do two things: classification or regression.
 - SVM is used for classification
 - SVR (Support Vector Regression) is used for regression
 
-[ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
+[ Ref - https://www.svm-tutorial.com/ ]
 
+---------------
+
+[ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
 
 ---------------
 
