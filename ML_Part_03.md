@@ -1,4 +1,4 @@
-_ML Models:_
+ML Models:
 
 1. Linear Regression -- (Supervised)
 
