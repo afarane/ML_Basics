@@ -62,6 +62,19 @@ Terms:
 [ SVM Parameters : http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html ]
 - gamma
 
+### 8. Time-Series
+
+Usage:
+- Forcast Sales
+- Forcast Volume
+- Predict trends
+
+Terms:
+1. Trend
+2. Seasonality
+3. Random noise
+4. Cyclical
+
 ---------------
 
 [ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
