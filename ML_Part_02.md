@@ -1,6 +1,6 @@
 <b> ML Terms : </b>
 
-1. Cost Function : 
+### 1. Cost Function : 
 
 Goal is to minimize cost function
 
@@ -8,7 +8,7 @@ Goal is to minimize cost function
 
 [Source : Andrew NG]
 
-2. Gradient Descent :
+### 2. Gradient Descent :
 
 Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost). 
 
@@ -19,9 +19,11 @@ Gradient descent is an optimization algorithm used to find the values of paramet
 
 [Source : https://www.youtube.com/watch?v=5u4G23_OohI]
 
-3. Precision and Recall :
+### 3. Precision and Recall :
 
 ![ml_p r](https://user-images.githubusercontent.com/27011804/46474714-31279400-c801-11e8-93ee-a7a0becee9fb.png)
+
+### 4. Sensitivity and Specificity :
 
 ---------------
 
