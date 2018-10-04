@@ -75,6 +75,12 @@ Terms:
 3. Random noise
 4. Cyclical
 
+The three most important parameters that one needs to pay attention to are-
+
+alpha = Value of smoothing parameter for the base level. 
+beta = Value of smoothing parameter for the trend.
+gamma = Value of smoothing parameter for the seasonal component.
+
 ---------------
 
 [ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
