@@ -32,7 +32,11 @@ Applications:
 - Email Spam Filter
 - Categorize News
 
-8. SVM
+8. SVM (Supervised)
+
+SVMs can be used to do two things: classification or regression.
+- SVM is used for classification
+- SVR (Support Vector Regression) is used for regression
 
 [ Classification Model : https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529 ]
 
