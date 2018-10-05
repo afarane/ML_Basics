@@ -64,6 +64,14 @@ Terms:
 
 ### 8. Time-Series
 
+Models: 
+- Additive Seasonal Model
+- Multiplicative Seasonal Model
+
+- Simple Moving Average (SMA)
+- Exponential Moving Average (EMA)
+- Autoregressive integrated moving average (ARIMA)
+
 Usage:
 - Forcast Sales
 - Forcast Volume
