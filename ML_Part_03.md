@@ -89,10 +89,7 @@ alpha = Value of smoothing parameter for the base level.
 beta = Value of smoothing parameter for the trend.
 gamma = Value of smoothing parameter for the seasonal component.
 
-Regularization :
-1. L1 Regularization (Lasso Regularization)
-2. L2 Regularization (Ridge Regularization)
-3. Combination of above two Elastic Net
+
 
 ---------------
 
